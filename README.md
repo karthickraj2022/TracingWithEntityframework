@@ -1,0 +1,2 @@
+# TracingWithEntityframework
+Opentelementry tracing with Entityframeworkcore instrumentation
